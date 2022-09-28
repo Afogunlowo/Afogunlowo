@@ -4,7 +4,9 @@ I’m @Oyindamola Afogunlowo
 - I’m a Microbiology graduate, Data Analyst.
 
 -  I’m currently getting better at being a Data scientist 
-proficient in Python, Excel, PowerBi, SQL 
+  proficient in Python:
+  Seaborn, Numpy, Pandas, Matplotlib.
+- Skilled in Excel, PowerBi, SQL
 - I’m into health research projects.
 
 <!---
